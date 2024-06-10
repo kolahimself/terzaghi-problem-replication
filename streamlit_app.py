@@ -1,5 +1,5 @@
 import streamlit as st
-import methods
+import method as methods
 
 st.title("Terzaghi's Bearing Factor $N_q$: Problem Replication")
 st.write("")
